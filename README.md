@@ -1,5 +1,5 @@
 # flink-source-code-analysis
-*Apache Flink 源码分析系列，基于 git tag 1.1.2*
+*Apache Flink 源码分析系列
 
 Apache Flink 被视为第四代的大数据处理框架，它融合了流式计算和批处理【批处理被视为流式计算的特例】
 
@@ -19,11 +19,4 @@ Apache Flink 被视为第四代的大数据处理框架，它融合了流式计�
 - flink-scheduler：介绍 flink 的任务调度算法及负载均衡
 - flink对用户代码异常处理：介绍作业的代码异常后 flink 的处理逻辑，从而更好的理解 flink 是如何保证了 exactly-once 的计算语义
 
-
-
-另：本人已将内存更新到博客上： [玉兆的博客](http://chenyuzhao.me) 欢迎访问和吐槽！
-
-
-
-本人会陆续更新，欢迎随时交流！
 
